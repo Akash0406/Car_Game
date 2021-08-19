@@ -11,7 +11,8 @@ https://starx0406.github.io/Car_Game/
 ![Annotation 2021-08-19 153607](https://user-images.githubusercontent.com/67006219/130050463-80c9af34-7c2c-44e3-826b-16981f438390.png)
 
 
-![Annotation 2021-08-19 155835](https://user-images.githubusercontent.com/67006219/130053700-9c0121ac-a8e8-4d9d-ab0f-4518babe0dd6.png)
+![Annotation 2021-08-19 160010](https://user-images.githubusercontent.com/67006219/130054049-3c36c8c8-6c11-48b9-a748-42dc6b737838.png)
+
 
 
 
