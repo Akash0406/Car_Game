@@ -39,7 +39,7 @@ btnNext.addEventListener('click', function () {
       console.log('You Lost');
       playing = false;
     }
-    if (remeningPetrol >= 0 && distanceTravel >= 20) {
+    if (remeningPetrol >= 0 && distanceTravel >= 100) {
       board.textContent = 'You Won';
       console.log('You won');
       playing = false;
