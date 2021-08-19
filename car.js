@@ -22,6 +22,9 @@ btnNext.addEventListener("click", function () {
 
     let travel = Math.trunc(Math.random() * 7);
     distanceTravel += travel;
+     if(distanceTravel > 100){
+    distanceTravel = 100;
+    }
     currentDistance.textContent = distanceTravel;
     if (petrolPump.includes(distanceTravel)) {
       remeningPetrol += 30;
